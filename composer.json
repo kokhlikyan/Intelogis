@@ -1,0 +1,37 @@
+{
+    "name": "intelogis/delivery-calculator",
+    "description": "Module for calculating Transport Delivery Cost Service",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Gohar Ghazaryan",
+            "email": "gohar.ghazaryan13@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Intelogis\\DeliveryCalculator\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^8.0",
+        "curl/curl": "^2.0",
+        "fakerphp/faker": "^1.21",
+        "phplucidframe/console-table": "^1.2"
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "mockery/mockery": "^1.5"
+    },
+    "scripts": {
+        "unit-test": "./vendor/bin/phpunit"
+    }
+}

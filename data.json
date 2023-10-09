@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Company1",
+    "baseUrl": "https://company1.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 2,
+    "name": "Company2",
+    "baseUrl": "https://company2.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 3,
+    "name": "Company3",
+    "baseUrl": "https://company3.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 4,
+    "name": "Company4",
+    "baseUrl": "https://company4.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 5,
+    "name": "Company5",
+    "baseUrl": "https://company5.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 6,
+    "name": "Company6",
+    "baseUrl": "https://company6.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 7,
+    "name": "Company7",
+    "baseUrl": "https://company7.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 8,
+    "name": "Company8",
+    "baseUrl": "https://company8.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 9,
+    "name": "Company9",
+    "baseUrl": "https://company9.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  },
+  {
+    "id": 10,
+    "name": "Company10",
+    "baseUrl": "https://company10.com/api",
+    "fastRelativeUrl": "fast-url",
+    "slowRelativeUrl": "slow-url"
+  }
+]
